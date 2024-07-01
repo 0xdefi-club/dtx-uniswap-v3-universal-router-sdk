@@ -2194,7 +2194,7 @@
 
 "@uniswap/router-sdk@https://github.com/0xdefi-club/dtx-swap-router-sdk-routing-api.git":
   version "1.9.0"
-  resolved "https://github.com/0xdefi-club/dtx-swap-router-sdk-routing-api.git#88ef5740c4c4cc41202ca4c808a941650dae6aa6"
+  resolved "https://github.com/0xdefi-club/dtx-swap-router-sdk-routing-api.git#136cef3d03ea43e728dec0638c2b9c4858b2f32d"
   dependencies:
     "@ethersproject/abi" "^5.5.0"
     "@uniswap/sdk-core" "https://github.com/0xdefi-club/dtx-swap-sdk-core.git"
@@ -2204,7 +2204,7 @@
 
 "@uniswap/sdk-core@https://github.com/0xdefi-club/dtx-swap-sdk-core.git":
   version "4.2.0"
-  resolved "https://github.com/0xdefi-club/dtx-swap-sdk-core.git#963d8a31230d9b813eecb22d312c73505f37ba60"
+  resolved "https://github.com/0xdefi-club/dtx-swap-sdk-core.git#c5bf93d8a27dcd40e091c39fa6a72c41ecc0ca24"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
@@ -2253,7 +2253,7 @@
 
 "@uniswap/v2-sdk@https://github.com/0xdefi-club/dtx-swap-v2-sdk-routing-api.git":
   version "4.3.0"
-  resolved "https://github.com/0xdefi-club/dtx-swap-v2-sdk-routing-api.git#6e766509c8602eb7fe46d0e8c913917aee667a2e"
+  resolved "https://github.com/0xdefi-club/dtx-swap-v2-sdk-routing-api.git#43e69a8228807ddc289547e3095bff15a52a01ab"
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
@@ -2307,7 +2307,7 @@
 
 "@uniswap/v3-sdk@https://github.com/0xdefi-club/dtx-swap-v3-sdk-routing-api.git":
   version "3.11.0"
-  resolved "https://github.com/0xdefi-club/dtx-swap-v3-sdk-routing-api.git#0aa43ec325dd62ab878d03773a43d26e051c43d8"
+  resolved "https://github.com/0xdefi-club/dtx-swap-v3-sdk-routing-api.git#a63ad08df97adb740e385b017fbc42db48a41ce8"
   dependencies:
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"
